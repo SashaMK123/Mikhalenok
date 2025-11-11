@@ -1,0 +1,77 @@
+body {
+    font-family: sans-serif;
+    background-color:khaki;
+    margin: 0px;
+    padding: 0px;
+}
+
+.social {
+    border-radius: 50px;
+}
+
+header {
+    background-color: white;
+    border: 3px dashed black;
+    padding: 10px;
+}
+
+
+.container {
+    width: 900px;
+    margin: 0px auto 0px auto;
+}
+
+li {
+    margin-bottom: 5px;
+    font-family: LUCIDA CONSOLE;
+    font-size: 20px;
+}
+
+h1 {
+    font-family: SEGOE PRINT;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+
+.link-header {
+    text-decoration:none;
+    font-size: 27px;
+}
+
+.link-header:hover {
+    color: white;
+    background-color: black;
+}
+
+.text-big:hover {
+    color: white;
+    background-color: black;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: white;
+    padding: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.link-nav {
+    margin-right: 40px;
+    text-decoration: none;
+    color: blue;
+    border: 3px double black;
+    padding: 10px;
+}
