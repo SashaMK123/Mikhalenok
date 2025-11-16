@@ -62,16 +62,12 @@ footer {
     padding: 20px;
 }
 
-nav {
-    display: flex;
-    justify-content: center;
-    margin-top: 20px;
-}
-
-.link-nav {
-    margin-right: 40px;
+.link-text {
     text-decoration: none;
     color: blue;
-    border: 3px double black;
-    padding: 10px;
+}
+
+.link-text:hover {
+    color: black;
+    background-color: white;
 }
