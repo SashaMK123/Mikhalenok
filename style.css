@@ -71,3 +71,24 @@ footer {
     color: black;
     background-color: white;
 }
+
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.link-nav {
+    margin-right: 40px;
+    text-decoration: none;
+    color: blue;
+    border: 5px double black;
+    padding: 10px;
+    font-size: 20px;
+}
+
+.link-nav:hover {
+    color: white;
+    background-color: black;
+}
